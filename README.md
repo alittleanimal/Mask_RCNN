@@ -4,8 +4,8 @@ This is the Manipulate and execute of [Mask R-CNN](https://arxiv.org/abs/1703.06
 ![Instance Segmentation Sample](assets/Graduation.png)
 
 # Getting Started
-* ([MaskRCNNClassification.ipynb](MaskRCNNClassification.ipynb)): This file contains the implementation of Mask R-CNN for Object Detection and Segmentation. 
-* ([demo_human_pose.ipynb](demo_human_pose.ipynb)): This file contains the implementation of Mask RCNN for Human Pose Estimation. 
+* ([instanceSegmentation.ipynb](instanceSegmentation.ipynb)): This file contains the implementation of Mask R-CNN for Object Detection and Segmentation. 
+* ([humanPostureDemo.ipynb](humanPostureDemo.ipynb)): This file contains the implementation of Mask RCNN for Human Pose Estimation. 
 
 # Installation
 1. create a conda virtual environment with python 3.6
